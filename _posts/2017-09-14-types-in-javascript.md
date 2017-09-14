@@ -2,7 +2,7 @@
 title:  "Types in JavaScript"
 categories: learn
 tags: javascript you-dont-know-js
-read_time: 10
+customize_read_time: 10
 ---
 ## JavaScript 內建的 Types
 * ```null```
